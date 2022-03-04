@@ -3,7 +3,7 @@ author: GitHub User
 description: > # this means to ignore newlines until "baseurl:"
   trying to see if this will work for blogging... 🤞
 
-show_downloads: false
+show_downloads: true
 show_header: false
 remote_theme: "dracula/gh-pages"
 

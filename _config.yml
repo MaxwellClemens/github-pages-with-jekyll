@@ -13,7 +13,7 @@ theme_config:
   show_description: true # show blog description
   show_navbar: true # show horizontal navbar
   show_footer: true # show footer links in home page,add in _data/home.yml
-  show_copyright: true # show copyright notice in footer
+  show_copyright: false # show copyright notice in footer
   # following keys are using to create home layout
   show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: true # show blog posts added in _posts
@@ -23,6 +23,9 @@ theme_config:
   home:
     title_blog: Posts
     #title_old_projects: Old Projects
+
+soopr:
+  publish_token: "pt_4839d11e1b76c5db9742b83bcffc047b" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
 
 highlighter: rouge
 

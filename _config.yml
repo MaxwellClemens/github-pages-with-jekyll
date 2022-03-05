@@ -5,6 +5,8 @@ description: >
 
 remote_theme: "abhinavs/moonwalk"
 
+favicon: "./monkey.png" # relative path to site's favicon
+
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
   appearance_toggle: false # if appearance can be switched by user
